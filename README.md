@@ -54,17 +54,17 @@
 
 ##### Tiling wms
 
-* [sway](https://github.com/swaywm/sway) ⭐ 17,239 | 🐛 1,377 | 🌐 C | 📅 2026-07-31 - Wayland window manager, designed as a drop-in replacement for i3. (C)
-* [i3](https://github.com/i3/i3) ⭐ 10,541 | 🐛 375 | 🌐 C | 📅 2026-07-28 - A tiling window manager. (C , perl)
+* [sway](https://github.com/swaywm/sway) ⭐ 17,242 | 🐛 1,376 | 🌐 C | 📅 2026-07-31 - Wayland window manager, designed as a drop-in replacement for i3. (C)
+* [i3](https://github.com/i3/i3) ⭐ 10,543 | 🐛 375 | 🌐 C | 📅 2026-07-28 - A tiling window manager. (C , perl)
 * [Bspwm](https://github.com/baskerville/bspwm) ⭐ 8,303 | 🐛 348 | 🌐 C | 📅 2026-06-19 - A tiling window manager based on binary space partitioning. (C)
-* [qtile](https://github.com/qtile/qtile) ⭐ 5,288 | 🐛 198 | 🌐 Python | 📅 2026-08-11 - A full-featured, hackable tiling window manager written and configured in Python .(python)
+* [qtile](https://github.com/qtile/qtile) ⭐ 5,287 | 🐛 199 | 🌐 Python | 📅 2026-08-11 - A full-featured, hackable tiling window manager written and configured in Python .(python)
 * [PaperWM](https://github.com/paperwm/PaperWM) ⭐ 4,261 | 🐛 192 | 🌐 JavaScript | 📅 2026-07-30 - Tiled scrollable window management for Gnome Shell. (JavaScript)
-* [river](https://github.com/riverwm/river) ⭐ 4,247 | 🐛 67 | 🌐 Zig | 📅 2026-08-16 -  A dynamic tiling Wayland compositor. (Zig)
+* [river](https://github.com/riverwm/river) ⭐ 4,246 | 🐛 67 | 🌐 Zig | 📅 2026-08-16 -  A dynamic tiling Wayland compositor. (Zig)
 * [leftwm](https://github.com/leftwm/leftwm) ⭐ 3,046 | 🐛 114 | 🌐 Rust | 📅 2026-07-21 - A tiling window manager for Adventurers. (rust)
 * [exwm](https://github.com/ch11ng/exwm) ⭐ 2,823 | 🐛 204 | 📅 2024-02-05 - Emacs X window manager. (Emacs Lisp)
 * [stumpwm](https://github.com/stumpwm/stumpwm) ⭐ 2,026 | 🐛 87 | 🌐 Common Lisp | 📅 2026-05-30 - X11 Window Manager written entirely in Common Lisp. (Common Lisp)
-* [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) ⭐ 1,162 | 🐛 130 | 🌐 C++ | 📅 2026-07-02 - A manual tiling window manager for X11. (C++,python)
-* [quicktile](https://github.com/ssokolow/quicktile) ⭐ 914 | 🐛 36 | 🌐 Python | 📅 2026-05-31 - (Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid. (Python)
+* [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) ⭐ 1,163 | 🐛 130 | 🌐 C++ | 📅 2026-07-02 - A manual tiling window manager for X11. (C++,python)
+* [quicktile](https://github.com/ssokolow/quicktile) ⭐ 912 | 🐛 36 | 🌐 Python | 📅 2026-05-31 - (Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid. (Python)
 * [howm](https://github.com/HarveyHunt/howm) ⭐ 657 | 🐛 17 | 🌐 C | 📅 2022-07-19 - A lightweight, X11 tiling window manager that behaves like vim. (C)
 * [wmderland](https://github.com/aesophor/wmderland) ⭐ 408 | 🐛 22 | 🌐 C++ | 📅 2023-03-19 - X11 tiling window manager using space partitioning trees. (C++)
 * [shellshape](https://github.com/timbertson/shellshape) ⚠️ Archived - tiling window manager extension for gnome-shell .(typescript)
@@ -98,15 +98,15 @@
 * [2bwm](https://github.com/venam/2bwm) ⭐ 851 | 🐛 1 | 🌐 C | 📅 2026-06-18 - A fast floating WM written over the XCB library and derived from mcwm. (C)
 * [worm](https://github.com/codic12/worm) ⭐ 728 | 🐛 23 | 🌐 Nim | 📅 2024-05-31 A floating, tag-based window manager. (nim)
 * [openbox](https://github.com/danakj/openbox) ⭐ 727 | 🐛 20 | 🌐 C | 📅 2026-06-03 - Highly configurable, next generation window manager with extensive standards support. (C)
-* [kwin](https://github.com/KDE/kwin) ⭐ 682 | 🐛 0 | 🌐 C++ | 📅 2026-08-15 - Easy to use, but flexible, X Window Manager and Wayland Compositor. (C++)
-* [icewm](https://github.com/bbidulock/icewm) ⭐ 681 | 🐛 8 | 🌐 C++ | 📅 2026-08-06 - A window manager designed for speed, usability, and consistency. (C++)
-* [fvwm3](https://github.com/fvwmorg/fvwm3) ⭐ 634 | 🐛 38 | 🌐 C | 📅 2026-08-12 - FVWM version 3 -- the successor to fvwm2. (C)
+* [icewm](https://github.com/bbidulock/icewm) ⭐ 681 | 🐛 7 | 🌐 C++ | 📅 2026-08-06 - A window manager designed for speed, usability, and consistency. (C++)
+* [kwin](https://github.com/KDE/kwin) ⭐ 679 | 🐛 0 | 🌐 C++ | 📅 2026-08-17 - Easy to use, but flexible, X Window Manager and Wayland Compositor. (C++)
+* [fvwm3](https://github.com/fvwmorg/fvwm3) ⭐ 635 | 🐛 38 | 🌐 C | 📅 2026-08-12 - FVWM version 3 -- the successor to fvwm2. (C)
 * [jwm](https://github.com/joewing/jwm) ⭐ 623 | 🐛 165 | 🌐 C | 📅 2026-05-06 - Joe's window manager. (C)
 * [fluxbox](https://github.com/fluxbox/fluxbox) ⭐ 432 | 🐛 21 | 🌐 C++ | 📅 2026-02-15 - a windowmanager for X that was based on the Blackbox. (C++)
 * [cwm](https://github.com/leahneukirchen/cwm) ⭐ 421 | 🐛 0 | 🌐 C | 📅 2026-05-19 - portable version of OpenBSD's cwm(1) window manager (C)
 * [no-wm](https://github.com/patrickhaller/no-wm) ⭐ 334 | 🐛 0 | 🌐 C | 📅 2017-12-08 - Use X11 without a window manager . (C)
-* [gala](https://github.com/elementary/gala) ⭐ 303 | 🐛 240 | 🌐 Vala | 📅 2026-08-16 - beautiful window manager for Pantheon. (vala)
-* [muffin](https://github.com/linuxmint/muffin/) ⭐ 245 | 🐛 58 | 🌐 C | 📅 2026-08-15 - The window management library for the Cinnamon desktop (libmuffin) and its sample WM binary (muffin) . (C)
+* [gala](https://github.com/elementary/gala) ⭐ 303 | 🐛 239 | 🌐 Vala | 📅 2026-08-17 - beautiful window manager for Pantheon. (vala)
+* [muffin](https://github.com/linuxmint/muffin/) ⭐ 243 | 🐛 58 | 🌐 C | 📅 2026-08-15 - The window management library for the Cinnamon desktop (libmuffin) and its sample WM binary (muffin) . (C)
 * [marco](https://github.com/mate-desktop/marco) ⭐ 216 | 🐛 183 | 🌐 C | 📅 2026-08-11 - mate's default wm. (C)
 * [9wm](https://github.com/9wm/9wm) ⭐ 207 | 🐛 3 | 🌐 C | 📅 2022-07-25 - X11 Window Manager inspired by Plan 9's rio. (C)
 * [goomwm](https://github.com/seanpringle/goomwwm) ⭐ 196 | 🐛 15 | 🌐 C | 📅 2025-07-11 - Get out of my way, Window Manager! . (C)
@@ -145,15 +145,15 @@
 
 ##### Dynamic tiling wms
 
-* [Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 37,903 | 🐛 189 | 🌐 C++ | 📅 2026-08-15 - Dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks. (C++)
-* [niri](https://github.com/YaLTeR/niri) ⭐ 26,948 | 🐛 486 | 🌐 Rust | 📅 2026-08-14 - A scrollable-tiling Wayland compositor. (rust)
-* [awesome](https://github.com/awesomeWM/awesome) ⭐ 6,943 | 🐛 572 | 🌐 Lua | 📅 2026-07-26 - awesome window manager .(lua)
+* [Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 37,918 | 🐛 190 | 🌐 C++ | 📅 2026-08-16 - Dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks. (C++)
+* [niri](https://github.com/YaLTeR/niri) ⭐ 26,961 | 🐛 489 | 🌐 Rust | 📅 2026-08-14 - A scrollable-tiling Wayland compositor. (rust)
+* [awesome](https://github.com/awesomeWM/awesome) ⭐ 6,941 | 🐛 572 | 🌐 Lua | 📅 2026-07-26 - awesome window manager .(lua)
 * [xmonad](https://github.com/xmonad/xmonad) ⭐ 3,581 | 🐛 61 | 🌐 Haskell | 📅 2026-06-28 - a small but functional ICCCM-compliant tiling window manager . (Haskell)
 * [spectrwm](https://github.com/conformal/spectrwm) ⭐ 1,402 | 🐛 33 | 🌐 C | 📅 2026-07-20 - A small dynamic tiling window manager for X11. (C)
 * [wingo](https://github.com/BurntSushi/wingo) ⭐ 1,021 | 🐛 72 | 🌐 Go | 📅 2026-05-19 - A fully-featured window manager. (go)
 * [nwm](https://github.com/mixu/nwm) ⭐ 792 | 🐛 12 | 🌐 JavaScript | 📅 2015-09-09 - A dynamic window manager for X11 written with Node.js. (Javascript)
 * [velox](https://github.com/michaelforney/velox) ⭐ 606 | 🐛 14 | 🌐 C | 📅 2026-04-10 - Window manager inspired by dwm and xmonad. (C)
-* [instantwm](https://github.com/instantOS/instantWM) ⭐ 344 | 🐛 24 | 🌐 Rust | 📅 2026-08-16- window manager for instantOS . (C)
+* [instantwm](https://github.com/instantOS/instantWM) ⭐ 343 | 🐛 24 | 🌐 Rust | 📅 2026-08-17- window manager for instantOS . (C)
 * [monsterwm](https://github.com/c00kiemon5ter/monsterwm) ⭐ 341 | 🐛 12 | 🌐 C | 📅 2012-12-16 - tiny but monstrous tiling window manager. (C)
 * [frankenwm](https://github.com/sulami/FrankenWM) ⭐ 284 | 🐛 22 | 🌐 C | 📅 2024-06-03 - Fast dynamic tiling X11 window manager. (C)
 * [chamferwm](https://github.com/jaelpark/chamferwm) ⭐ 259 | 🐛 6 | 🌐 C++ | 📅 2024-09-28 - A tiling X11 window manager with Vulkan compositor. (C++)
@@ -167,8 +167,8 @@
 
 ##### MacOS wms
 
-* [yabai](https://github.com/koekeishiya/yabai) ⭐ 29,466 | 🐛 249 | 🌐 C | 📅 2026-06-14 - A tiling window manager for macOS based on binary space partitioning. (C)
-* [Aerospace](https://github.com/nikitabobko/AeroSpace) ⭐ 22,426 | 🐛 197 | 🌐 Swift | 📅 2026-08-10 - i3-like tiling window manager for macOS
+* [yabai](https://github.com/koekeishiya/yabai) ⭐ 29,471 | 🐛 249 | 🌐 C | 📅 2026-06-14 - A tiling window manager for macOS based on binary space partitioning. (C)
+* [Aerospace](https://github.com/nikitabobko/AeroSpace) ⭐ 22,439 | 🐛 197 | 🌐 Swift | 📅 2026-08-10 - i3-like tiling window manager for macOS
 * [Amethyst](https://github.com/ianyh/Amethyst) ⭐ 16,222 | 🐛 287 | 🌐 Swift | 📅 2026-08-11 - Automatic tiling window manager for macOS à la xmonad. (Swift)
 
 #### Other
@@ -180,7 +180,7 @@
 ### Show off scripts
 
 * [cmatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,206 | 🐛 84 | 🌐 C | 📅 2024-08-21 - Simple terminal matrix implementation. (C)
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,011 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Script which generates animated colorful pipes. (shell)
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,013 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Script which generates animated colorful pipes. (shell)
 * [tty-clock](https://github.com/xorg62/tty-clock) ⭐ 1,138 | 🐛 33 | 🌐 C | 📅 2024-07-31 - Customizable clock in terminal. (C)
 * [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Tree growing animation with your own text. (C)
 
@@ -188,27 +188,27 @@
 
 ### Terminals
 
-* [Tabby](https://github.com/Eugeny/tabby) ⭐ 73,945 | 🐛 2,852 | 🌐 TypeScript | 📅 2026-08-12 - A terminal for a more modern age. (typescript)
-* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 65,394 | 🐛 340 | 🌐 Rust | 📅 2026-08-03 - A cross-platform, GPU-accelerated terminal emulator. (rust)
-* [Hyper](https://github.com/zeit/hyper) ⭐ 44,689 | 🐛 1,043 | 🌐 TypeScript | 📅 2026-06-29 - A terminal built on web technologies. (javascript)
-* [Zellij](https://github.com/zellij-org/zellij) ⭐ 34,934 | 🐛 1,862 | 🌐 Rust | 📅 2026-08-13 - Terminal multiplexer with responsive layouts, collaborative sessions, and a plugin system. (Rust)
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,427 | 🐛 10 | 🌐 Python | 📅 2026-08-16 - The fast, featureful, GPU based terminal emulator. (c, python)
-* [Wezterm](https://github.com/wez/wezterm) ⭐ 28,383 | 🐛 1,811 | 🌐 Rust | 📅 2026-08-15 - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,928 | 🐛 563 | 🌐 QML | 📅 2026-05-31 - A good looking terminal emulator which mimics the old cathode display. (qml)
+* [Tabby](https://github.com/Eugeny/tabby) ⭐ 73,966 | 🐛 2,855 | 🌐 TypeScript | 📅 2026-08-12 - A terminal for a more modern age. (typescript)
+* [Alacritty](https://github.com/alacritty/alacritty) ⭐ 65,402 | 🐛 339 | 🌐 Rust | 📅 2026-08-03 - A cross-platform, GPU-accelerated terminal emulator. (rust)
+* [Hyper](https://github.com/zeit/hyper) ⭐ 44,693 | 🐛 1,043 | 🌐 TypeScript | 📅 2026-06-29 - A terminal built on web technologies. (javascript)
+* [Zellij](https://github.com/zellij-org/zellij) ⭐ 34,958 | 🐛 1,860 | 🌐 Rust | 📅 2026-08-17 - Terminal multiplexer with responsive layouts, collaborative sessions, and a plugin system. (Rust)
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,446 | 🐛 11 | 🌐 Python | 📅 2026-08-17 - The fast, featureful, GPU based terminal emulator. (c, python)
+* [Wezterm](https://github.com/wez/wezterm) ⭐ 28,407 | 🐛 1,812 | 🌐 Rust | 📅 2026-08-17 - A GPU-accelerated cross-platform terminal emulator and multiplexer. (Rust)
+* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) ⭐ 25,933 | 🐛 563 | 🌐 QML | 📅 2026-05-31 - A good looking terminal emulator which mimics the old cathode display. (qml)
 * [Upterm](https://github.com/railsware/upterm) ⚠️ Archived - A terminal emulator for the 21st century. (typescript)
 * [Guake](https://github.com/Guake/guake) ⭐ 4,667 | 🐛 456 | 🌐 Python | 📅 2026-08-15 - Drop-down terminal for GNOME. (python)
 * [Termkit](https://github.com/unconed/TermKit) ⭐ 4,428 | 🐛 33 | 🌐 JavaScript | 📅 2011-12-15 - Experimental Terminal platform built on WebKit + node.js that aims to construct aspects of the GUI . (javascript)
 * [finalterm](https://github.com/p-e-w/finalterm) ⚠️ Archived - At last – a modern terminal emulator. (vala)
-* [darktile](https://github.com/liamg/darktile) ⭐ 3,082 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - a GPU rendered terminal emulator designed for tiling window managers. (go)
-* [Contour](https://github.com/christianparpart/contour) ⭐ 2,985 | 🐛 186 | 🌐 C++ | 📅 2026-08-16 - Modern C++ Terminal Emulator. (C++)
+* [darktile](https://github.com/liamg/darktile) ⭐ 3,083 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - a GPU rendered terminal emulator designed for tiling window managers. (go)
+* [Contour](https://github.com/christianparpart/contour) ⭐ 2,988 | 🐛 184 | 🌐 C++ | 📅 2026-08-17 - Modern C++ Terminal Emulator. (C++)
 * [Extraterm](https://github.com/sedwards2009/extraterm) ⭐ 2,821 | 🐛 134 | 🌐 TypeScript | 📅 2026-06-05 - The swiss army chainsaw of terminal emulators. (typescript)
 * [Termite](https://github.com/thestinger/termite/) ⚠️ Archived - A keyboard-centric VTE-based terminal. (c++)
 * [Terminator](https://github.com/gnome-terminator/terminator) ⭐ 2,638 | 🐛 176 | 🌐 Python | 📅 2026-08-09 - Multiple GNOME terminals in one window. (python)
 * [notty](https://github.com/withoutboats/notty) ⭐ 2,327 | 🐛 22 | 🌐 Rust | 📅 2017-03-27 virtual terminal like xterm, gnome-vte,rxvt. (rust)
-* [Tilda](https://github.com/lanoxx/tilda) ⭐ 1,341 | 🐛 154 | 🌐 C | 📅 2026-01-10 - A Gtk based drop down terminal for Linux and Unix. (c)
-* [KMSCON](https://github.com/dvdhrm/kmscon) ⭐ 861 | 🐛 65 | 🌐 C | 📅 2026-08-14 - Linux KMS/DRM based virtual Console Emulator. (C)
+* [Tilda](https://github.com/lanoxx/tilda) ⭐ 1,341 | 🐛 156 | 🌐 C | 📅 2026-01-10 - A Gtk based drop down terminal for Linux and Unix. (c)
+* [KMSCON](https://github.com/dvdhrm/kmscon) ⭐ 861 | 🐛 64 | 🌐 C | 📅 2026-08-17 - Linux KMS/DRM based virtual Console Emulator. (C)
 * [Terminology](https://github.com/billiob/terminology) ⭐ 735 | 🐛 35 | 🌐 C | 📅 2026-08-16 - The best terminal emulator based on the Enlightenment Foundation Libraries. (c)
-* [qterminal](https://github.com/lxqt/qterminal) ⭐ 711 | 🐛 90 | 🌐 C++ | 📅 2026-08-13 lightweight Qt terminal emulator based on QTermWidget. (c++)
+* [qterminal](https://github.com/lxqt/qterminal) ⭐ 712 | 🐛 91 | 🌐 C++ | 📅 2026-08-17 lightweight Qt terminal emulator based on QTermWidget. (c++)
 * [xterm.dart](https://github.com/TerminalStudio/xterm.dart) ⭐ 653 | 🐛 107 | 🌐 Dart | 📅 2025-06-19 - xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms. (dart)
 * [Pantheon](https://github.com/elementary/terminal) ⭐ 428 | 🐛 83 | 🌐 Vala | 📅 2026-08-07 - Terminal emulator designed for elementary OS. (vala)
 * [Termonad](https://github.com/cdepillabout/termonad) ⭐ 418 | 🐛 26 | 🌐 Haskell | 📅 2026-07-28 - Terminal emulator configurable in Haskell. (Haskell)
@@ -217,7 +217,7 @@
 * [Lxterminal](https://github.com/lxde/lxterminal) ⭐ 195 | 🐛 47 | 🌐 C | 📅 2026-02-14 - VTE terminal emulator written in GTK. (c)
 * [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal) ⭐ 194 | 🐛 0 | 🌐 C | 📅 2026-08-14 - Xfce Terminal is a lightweight and easy to use terminal emulator with advanced features (c)
 * [xtermSharp](https://github.com/migueldeicaza/XtermSharp) ⭐ 188 | 🐛 37 | 🌐 C# | 📅 2022-11-08 - XTerm emulator as a .NET library . (C#)
-* [deepin-terminal](https://github.com/linuxdeepin/deepin-terminal) ⭐ 175 | 🐛 2 | 🌐 C++ | 📅 2026-08-12 - Terminal for deepin DE. (C++)
+* [deepin-terminal](https://github.com/linuxdeepin/deepin-terminal) ⭐ 175 | 🐛 3 | 🌐 C++ | 📅 2026-08-17 - Terminal for deepin DE. (C++)
 * [wives](https://github.com/KRTirtho/wives) ⭐ 167 | 🐛 12 | 🌐 Dart | 📅 2023-07-07 - A beautiful, modern & feature-rich Terminal Emulator. (dart)
 * [lite](https://github.com/TerminalStudio/lite) ⭐ 164 | 🐛 5 | 🌐 C++ | 📅 2021-03-07 - Experimental cross-platform terminal emulator. (dart)
 * [Termit](https://github.com/nonstop/termit) ⭐ 145 | 🐛 10 | 🌐 C | 📅 2025-09-23 terminal emulator based on VTE library with Lua scripting. (c)
@@ -245,7 +245,7 @@
 
 #### Other
 
-* [Xterm](https://github.com/termux/termux-app) ⭐ 59,310 | 🐛 591 | 🌐 Java | 📅 2026-07-14 - Android terminal and Linux environment. (java)
+* [Xterm](https://github.com/termux/termux-app) ⭐ 59,348 | 🐛 589 | 🌐 Java | 📅 2026-07-14 - Android terminal and Linux environment. (java)
 * [GateOne](https://github.com/liftoff/GateOne) ⭐ 6,296 | 🐛 365 | 🌐 JavaScript | 📅 2023-03-17 - Gate One is an HTML5-powered terminal emulator and SSH client. (javaScript)
 * [fbpad](https://github.com/aligrudi/fbpad) ⭐ 148 | 🐛 2 | 🌐 C | 📅 2026-02-25 - A small Linux framebuffer virtual terminal. (C)
 * [kterminal](https://github.com/heatherhaks/kterminal) ⭐ 28 | 🐛 1 | 🌐 Kotlin | 📅 2020-07-16 - A terminal display emulator using libKTX and libGDX. (kotlin)
@@ -259,23 +259,23 @@
 
 \[Courtesy = @siduck76]
 
-* [polybar](https://github.com/polybar/polybar) ⭐ 15,334 | 🐛 231 | 🌐 C++ | 📅 2025-09-24 - A fast and easy to use bar. (C++)
+* [polybar](https://github.com/polybar/polybar) ⭐ 15,334 | 🐛 232 | 🌐 C++ | 📅 2025-09-24 - A fast and easy to use bar. (C++)
 * [eww](https://github.com/elkowar/eww) ⭐ 12,612 | 🐛 378 | 🌐 Rust | 📅 2026-07-17 - ElKowar's wacky widgets. (rust)
-* [sketchybar](https://github.com/FelixKratz/SketchyBar) ⭐ 12,214 | 🐛 73 | 🌐 C | 📅 2026-06-04 - A easily customizable MacOS statusbar. (C)
-* [waybar](https://github.com/Alexays/Waybar) ⭐ 11,811 | 🐛 711 | 🌐 C++ | 📅 2026-08-14 - Highly customizable Wayland bar for Sway and Wlroots based compositors. (C++)
-* [conky](https://github.com/brndnmtthws/conky) ⭐ 8,468 | 🐛 85 | 🌐 C++ | 📅 2026-08-07 - Light-weight system monitor for X, Wayland, and other things, too
-* [i3status-rust](https://github.com/greshake/i3status-rust) ⭐ 3,134 | 🐛 120 | 🌐 Rust | 📅 2026-08-15 - Very resourcefriendly and feature-rich replacement for i3status. (rust)
-* [i3blocks](https://github.com/vivien/i3blocks) ⭐ 2,470 | 🐛 63 | 🌐 C | 📅 2023-11-22 - A flexible scheduler for your i3bar blocks. (C)
-* [lemonbar](https://github.com/LemonBoy/bar) ⭐ 1,688 | 🐛 22 | 🌐 C | 📅 2024-09-02 - A featherweight, lemon-scented, bar based on xcb. (C)
+* [sketchybar](https://github.com/FelixKratz/SketchyBar) ⭐ 12,215 | 🐛 73 | 🌐 C | 📅 2026-06-04 - A easily customizable MacOS statusbar. (C)
+* [waybar](https://github.com/Alexays/Waybar) ⭐ 11,815 | 🐛 712 | 🌐 C++ | 📅 2026-08-14 - Highly customizable Wayland bar for Sway and Wlroots based compositors. (C++)
+* [conky](https://github.com/brndnmtthws/conky) ⭐ 8,468 | 🐛 86 | 🌐 C++ | 📅 2026-08-07 - Light-weight system monitor for X, Wayland, and other things, too
+* [i3status-rust](https://github.com/greshake/i3status-rust) ⭐ 3,135 | 🐛 120 | 🌐 Rust | 📅 2026-08-15 - Very resourcefriendly and feature-rich replacement for i3status. (rust)
+* [i3blocks](https://github.com/vivien/i3blocks) ⭐ 2,471 | 🐛 63 | 🌐 C | 📅 2023-11-22 - A flexible scheduler for your i3bar blocks. (C)
+* [lemonbar](https://github.com/LemonBoy/bar) ⭐ 1,689 | 🐛 22 | 🌐 C | 📅 2024-09-02 - A featherweight, lemon-scented, bar based on xcb. (C)
 * [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) ⭐ 1,286 | 🐛 12 | 🌐 Python | 📅 2026-03-21 - A modular, theme-able status line generator for the i3wm. (python)
-* [py3status](https://github.com/ultrabug/py3status) ⭐ 910 | 🐛 24 | 🌐 Python | 📅 2026-08-16 - py3status is an extensible i3status wrapper. (python)
+* [py3status](https://github.com/ultrabug/py3status) ⭐ 910 | 🐛 23 | 🌐 Python | 📅 2026-08-16 - py3status is an extensible i3status wrapper. (python)
 * [taffybar](https://github.com/taffybar/taffybar) ⭐ 713 | 🐛 15 | 🌐 Haskell | 📅 2026-07-23 - A gtk based status bar for tiling window managers such as XMonad. (Haskell)
 * [yabar](https://github.com/geommer/yabar) ⚠️ Archived - A modern and lightweight status bar for X window managers. (C)
 * [i3status](https://github.com/i3/i3status) ⭐ 655 | 🐛 97 | 🌐 C | 📅 2024-09-09 - Generates status bar to use with i3bar, dzen2 or xmobar. (C)
 * [luastatus](https://github.com/shdown/luastatus) ⭐ 316 | 🐛 4 | 🌐 C | 📅 2026-08-15 - universal status bar content generator. (C)
 * [winbar](https://github.com/jmanc3/winbar) ⭐ 289 | 🐛 8 | 🌐 C++ | 📅 2026-06-13 - A familiar X11 panel/dock to ease new linux users transitio. (C++)
 * [polydock](https://github.com/folke/polydock) ⭐ 217 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-14 - A shiny and hackable application dock. (typescript)
-* [mate-panel](https://github.com/mate-desktop/mate-panel) ⭐ 203 | 🐛 253 | 🌐 C | 📅 2026-08-08 - MATE panel. (C)
+* [mate-panel](https://github.com/mate-desktop/mate-panel) ⭐ 203 | 🐛 252 | 🌐 C | 📅 2026-08-17 - MATE panel. (C)
 * [cnx](https://github.com/mjkillough/cnx) ⭐ 197 | 🐛 12 | 🌐 Rust | 📅 2024-05-04 - A simple X11 status bar for use with simple WMs. (rust)
 * [dwmbar](https://github.com/thytom/dwmbar) ⭐ 146 | 🐛 1 | 🌐 Shell | 📅 2025-12-02 - A Modular Status Bar for dwm. (shell)
 * [wingpanel](https://github.com/elementary/wingpanel) ⭐ 143 | 🐛 43 | 🌐 Vala | 📅 2026-08-01 - Stylish top panel that holds indicators and spawns an application launcher. (vala)
@@ -318,19 +318,19 @@
 
 #### System Monitors
 
-* [btop](https://github.com/aristocratos/btop) ⭐ 34,009 | 🐛 527 | 🌐 C++ | 📅 2026-08-08 - Linux/OSX/FreeBSD resource monitor (C++)
-* [Glances](https://github.com/nicolargo/glances) ⭐ 33,364 | 🐛 106 | 🌐 Python | 📅 2026-08-15 - Glances an Eye on your system. A top/htop alternative. (python)
-* [sampler](https://github.com/sqshq/sampler) ⭐ 14,775 | 🐛 62 | 🌐 Go | 📅 2024-02-22 - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
-* [bottom](https://github.com/ClementTsang/bottom) ⭐ 13,893 | 🐛 109 | 🌐 Rust | 📅 2026-08-15 - Yet another cross-platform graphical process/system monitor. (rust)
-* [bashtop](https://github.com/aristocratos/bashtop) ⭐ 11,119 | 🐛 64 | 🌐 Shell | 📅 2023-08-21 - Linux/OSX/FreeBSD resource monitor (bash)
-* [Nvtop](https://github.com/Syllo/nvtop) ⭐ 10,922 | 🐛 142 | 🌐 C | 📅 2026-05-06 - NVIDIA GPUs htop like monitoring tool. (C)
-* [bpytop](https://github.com/aristocratos/bpytop) ⭐ 10,917 | 🐛 99 | 🌐 Python | 📅 2025-06-01 - Linux/OSX/FreeBSD resource monitor (python)
+* [btop](https://github.com/aristocratos/btop) ⭐ 34,035 | 🐛 528 | 🌐 C++ | 📅 2026-08-08 - Linux/OSX/FreeBSD resource monitor (C++)
+* [Glances](https://github.com/nicolargo/glances) ⭐ 33,366 | 🐛 106 | 🌐 Python | 📅 2026-08-17 - Glances an Eye on your system. A top/htop alternative. (python)
+* [sampler](https://github.com/sqshq/sampler) ⭐ 14,785 | 🐛 62 | 🌐 Go | 📅 2024-02-22 - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (go)
+* [bottom](https://github.com/ClementTsang/bottom) ⭐ 13,901 | 🐛 108 | 🌐 Rust | 📅 2026-08-17 - Yet another cross-platform graphical process/system monitor. (rust)
+* [bashtop](https://github.com/aristocratos/bashtop) ⭐ 11,118 | 🐛 64 | 🌐 Shell | 📅 2023-08-21 - Linux/OSX/FreeBSD resource monitor (bash)
+* [Nvtop](https://github.com/Syllo/nvtop) ⭐ 10,925 | 🐛 144 | 🌐 C | 📅 2026-05-06 - NVIDIA GPUs htop like monitoring tool. (C)
+* [bpytop](https://github.com/aristocratos/bpytop) ⭐ 10,916 | 🐛 99 | 🌐 Python | 📅 2025-06-01 - Linux/OSX/FreeBSD resource monitor (python)
 * [gtop](https://github.com/aksakalli/gtop) ⭐ 9,928 | 🐛 42 | 🌐 JavaScript | 📅 2025-11-06 - System monitoring dashboard for terminal. (js)
 * [Gotop](https://github.com/cjbassi/gotop) ⚠️ Archived - A terminal based graphical activity monitor inspired by gtop and vtop. (go,C)
 * [Nvitop](https://github.com/XuehaiPan/nvitop) ⭐ 7,104 | 🐛 19 | 🌐 Python | 📅 2026-07-27 - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (python)
-* [s-tui](https://github.com/amanusk/s-tui) ⭐ 5,067 | 🐛 38 | 🌐 Python | 📅 2026-08-15 - Terminal based CPU stress and monitoring utility. (python)
+* [s-tui](https://github.com/amanusk/s-tui) ⭐ 5,066 | 🐛 38 | 🌐 Python | 📅 2026-08-15 - Terminal based CPU stress and monitoring utility. (python)
 * [vtop](https://github.com/MrRio/vtop) ⭐ 4,172 | 🐛 80 | 🌐 JavaScript | 📅 2020-10-08 - A graphical activity monitor for the command line. (js)
-* [sysstat](https://github.com/sysstat/sysstat) ⭐ 3,353 | 🐛 80 | 🌐 C | 📅 2026-07-28 - Performance monitoring tools for Linux. (C)
+* [sysstat](https://github.com/sysstat/sysstat) ⭐ 3,354 | 🐛 80 | 🌐 C | 📅 2026-07-28 - Performance monitoring tools for Linux. (C)
 * [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,044 | 🐛 40 | 🌐 Rust | 📅 2026-07-13 - Sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage. (rust)
 * [ytop](https://github.com/cjbassi/ytop) ⚠️ Archived - A TUI system monitor. (rust)
 * [tiptop](https://github.com/nschloe/tiptop) ⭐ 2,123 | 🐛 25 | 🌐 Python | 📅 2025-09-04 -  Command-line system monitoring. (python)
@@ -346,9 +346,9 @@
 
 ##### cli
 
-* [cava](https://github.com/karlstav/cava) ⭐ 6,349 | 🐛 17 | 🌐 C | 📅 2026-08-01 - Console-based Audio Visualizer for Alsa. (C)
+* [cava](https://github.com/karlstav/cava) ⭐ 6,351 | 🐛 17 | 🌐 C | 📅 2026-08-01 - Console-based Audio Visualizer for Alsa. (C)
 * [catnip](https://github.com/noriah/catnip) ⭐ 308 | 🐛 1 | 🌐 Go | 📅 2026-02-24 - terminal audio visualizer for linux/unix/macOS/windblows. (go)
-* [xava](https://github.com/nikp123/xava) ⭐ 151 | 🐛 8 | 🌐 C | 📅 2026-08-15 - X11 Audio Visualizer for ALSA. (C)
+* [xava](https://github.com/nikp123/xava) ⭐ 151 | 🐛 8 | 🌐 C | 📅 2026-08-17 - X11 Audio Visualizer for ALSA. (C)
 * [barva](https://github.com/Kharacternyk/barva) ⚠️ Archived - An audio visualizer that pulses the background of your terminal (or anything else). (python)
 * [ReVidia-Audio-Visualizer](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2020-09-28 - A highly customizable real time audio visualizer on Linux/Windows. (python)
 * [octavia](https://github.com/octobanana/octavia) ⭐ 35 | 🐛 5 | 🌐 C++ | 📅 2020-10-05 - Very configurable colored CLI visualizer. (C++)
@@ -371,16 +371,16 @@
 
 \[Courtesy - @siduck76]
 
-* [yazi](https://github.com/sxyazi/yazi) ⭐ 41,393 | 🐛 66 | 🌐 Rust | 📅 2026-08-16 - Blazing fast terminal file manager, based on async I/O. (Rust)
-* [nnn](https://github.com/jarun/nnn) ⭐ 21,794 | 🐛 4 | 🌐 C | 📅 2026-08-16 - n³ The unorthodox terminal file manager. (C)
-* [ranger](https://github.com/ranger/ranger) ⭐ 17,340 | 🐛 897 | 🌐 Python | 📅 2026-08-15 - A VIM-inspired filemanager for the console. (python)
-* [lf](https://github.com/gokcehan/lf) ⭐ 9,468 | 🐛 81 | 🌐 Go | 📅 2026-08-15 - Terminal file manager inspired by ranger. (go)
-* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,803 | 🐛 14 | 🌐 Rust | 📅 2026-08-15 - A hackable, minimal, fast TUI file explorer. (Rust)
+* [yazi](https://github.com/sxyazi/yazi) ⭐ 41,425 | 🐛 66 | 🌐 Rust | 📅 2026-08-17 - Blazing fast terminal file manager, based on async I/O. (Rust)
+* [nnn](https://github.com/jarun/nnn) ⭐ 21,801 | 🐛 4 | 🌐 C | 📅 2026-08-17 - n³ The unorthodox terminal file manager. (C)
+* [ranger](https://github.com/ranger/ranger) ⭐ 17,349 | 🐛 897 | 🌐 Python | 📅 2026-08-15 - A VIM-inspired filemanager for the console. (python)
+* [lf](https://github.com/gokcehan/lf) ⭐ 9,463 | 🐛 80 | 🌐 Go | 📅 2026-08-15 - Terminal file manager inspired by ranger. (go)
+* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,803 | 🐛 14 | 🌐 Rust | 📅 2026-08-17 - A hackable, minimal, fast TUI file explorer. (Rust)
 * [fff](https://github.com/dylanaraps/fff) ⚠️ Archived - A simple file manager written in bash. (shell)
-* [joshuto](https://github.com/kamiyaa/joshuto) ⭐ 3,719 | 🐛 107 | 🌐 Rust | 📅 2026-07-19 - ranger-like terminal file manager. (rust)
-* [vifm](https://github.com/vifm/vifm) ⭐ 3,238 | 🐛 148 | 🌐 C | 📅 2026-08-06 - Terminal file manager. (C)
-* [clifm](https://github.com/leo-arch/clifm) ⭐ 1,717 | 🐛 26 | 🌐 C | 📅 2026-08-16 - a completely CLI-based, shell-like and KISS file manager , lightweight as hell. (C)
-* [mc](https://github.com/MidnightCommander/mc) ⭐ 949 | 🐛 685 | 🌐 C | 📅 2026-08-16 - A free cross-platform orthodox file manager. (C)
+* [joshuto](https://github.com/kamiyaa/joshuto) ⭐ 3,718 | 🐛 107 | 🌐 Rust | 📅 2026-07-19 - ranger-like terminal file manager. (rust)
+* [vifm](https://github.com/vifm/vifm) ⭐ 3,239 | 🐛 146 | 🌐 C | 📅 2026-08-06 - Terminal file manager. (C)
+* [clifm](https://github.com/leo-arch/clifm) ⭐ 1,717 | 🐛 26 | 🌐 C | 📅 2026-08-17 - a completely CLI-based, shell-like and KISS file manager , lightweight as hell. (C)
+* [mc](https://github.com/MidnightCommander/mc) ⭐ 949 | 🐛 686 | 🌐 C | 📅 2026-08-16 - A free cross-platform orthodox file manager. (C)
 * [cfiles](https://github.com/mananapr/cfiles) ⭐ 508 | 🐛 22 | 🌐 C | 📅 2021-08-28 - A ncurses file manager written in C with vim like keybindings. (C)
 * [rover](https://github.com/lecram/rover) ⭐ 338 | 🐛 8 | 🌐 C | 📅 2023-01-07 - simple file browser for the terminal. (C)
 * [sfm](https://github.com/afify/sfm/) ⭐ 259 | 🐛 6 | 🌐 C | 📅 2025-11-14 - similar file manager. (C)
@@ -396,23 +396,23 @@
 
 #### Weather Tools
 
-* [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,349 | 🐛 329 | 🌐 Go | 📅 2026-08-02 - The right way to check the weather
+* [wttr.in](https://github.com/chubin/wttr.in) ⭐ 30,360 | 🐛 330 | 🌐 Go | 📅 2026-08-02 - The right way to check the weather
 * [wego](https://github.com/schachmat/wego) ⭐ 8,533 | 🐛 16 | 🌐 Go | 📅 2026-08-01 - weather app for the terminal written in Go.
 * [ansiweather](https://github.com/fcambus/ansiweather) ⭐ 1,945 | 🐛 0 | 🌐 Shell | 📅 2026-07-24 - Weather in terminal, with ANSI colors and Unicode symbols
 * [Sky](https://gitlab.com/ceda_ei/sky) - A simple weather monitor server for your terminal based on curl
 
 #### Fetches
 
-* [fastfetch](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,224 | 🐛 70 | 🌐 C | 📅 2026-08-16 - Like neofetch, but much faster because written in c. Only Linux. (c)
+* [fastfetch](https://github.com/LinusDierheimer/fastfetch) ⭐ 24,242 | 🐛 71 | 🌐 C | 📅 2026-08-17 - Like neofetch, but much faster because written in c. Only Linux. (c)
 * [neofetch](https://github.com/dylanaraps/neofetch) ⚠️ Archived - A command-line system information tool written in bash 3.2+ . (shell)
-* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,023 | 🐛 61 | 🌐 Rust | 📅 2026-08-16 - Git repository summary on your terminal. (rust)
-* [screenfetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,068 | 🐛 169 | 🌐 Shell | 📅 2026-03-02 - Fetches system/theme information in terminal for Linux desktop screenshots. (shell)
-* [bunnfetch](https://github.com/elenapan/dotfiles/blob/master/bin/bunnyfetch) ⭐ 3,895 | 🐛 17 | 🌐 Lua | 📅 2025-09-17 - tiny fetch. (shell)
+* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,023 | 🐛 61 | 🌐 Rust | 📅 2026-08-17 - Git repository summary on your terminal. (rust)
+* [screenfetch](https://github.com/KittyKatt/screenFetch) ⭐ 4,071 | 🐛 169 | 🌐 Shell | 📅 2026-03-02 - Fetches system/theme information in terminal for Linux desktop screenshots. (shell)
+* [bunnfetch](https://github.com/elenapan/dotfiles/blob/master/bin/bunnyfetch) ⭐ 3,897 | 🐛 17 | 🌐 Lua | 📅 2025-09-17 - tiny fetch. (shell)
 * [pfetch](https://github.com/dylanaraps/pfetch) ⚠️ Archived - A pretty system information tool written in POSIX sh. (shell)
 * [cpufetch](https://github.com/Dr-Noob/cpufetch) ⭐ 2,137 | 🐛 128 | 🌐 C | 📅 2025-11-01 - Simple yet fancy CPU architecture fetching tool. (C)
 * [macchina](https://github.com/Macchina-CLI/macchina) ⭐ 1,962 | 🐛 11 | 🌐 Rust | 📅 2025-03-08 - A system information fetcher, with an emphasis on performance and minimalism. (rust)
-* [winfetch](https://github.com/lptstr/winfetch) ⭐ 1,788 | 🐛 26 | 🌐 PowerShell | 📅 2024-05-09 - A command-line system information utility.Like Neofetch, but for Windows. (Powershell)
-* [uwufetch](https://github.com/TheDarkBug/uwufetch) ⭐ 814 | 🐛 10 | 🌐 C | 📅 2026-04-14 - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace. (C)
+* [winfetch](https://github.com/lptstr/winfetch) ⭐ 1,789 | 🐛 26 | 🌐 PowerShell | 📅 2024-05-09 - A command-line system information utility.Like Neofetch, but for Windows. (Powershell)
+* [uwufetch](https://github.com/TheDarkBug/uwufetch) ⭐ 815 | 🐛 10 | 🌐 C | 📅 2026-04-14 - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace. (C)
 * [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 650 | 🐛 0 | 🌐 Shell | 📅 2026-07-16 - A POSIX nix fetch script using Nerdfonts. (shell)
 * [nitch](https://github.com/unxsh/nitch) ⭐ 650 | 🐛 32 | 🌐 Nim | 📅 2024-06-22 - Incredibly fast system fetch (nim)
 * [freshfetch](https://github.com/K4rakara/freshfetch) ⭐ 507 | 🐛 19 | 🌐 Rust | 📅 2024-06-05 - a fresh take on neofetch. (rust)
@@ -433,7 +433,7 @@
 * [cutefetch](https://github.com/cybardev/cutefetch) ⭐ 72 | 🐛 0 | 🌐 Shell | 📅 2026-08-02 - Tiny coloured fetch script with cute little animals (shell)
 * [disfetch](https://github.com/q60/disfetch) ⭐ 69 | 🐛 5 | 🌐 Shell | 📅 2023-03-19 - Yet another \*nix distro fetching program, but less complex. (shell)
 * [vfetch](https://github.com/Lorago/vfetch) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2021-05-18 - A simple fetch tool for Linux . (python)
-* [afetch](https://github.com/sticky-tea/afetch) ⭐ 61 | 🐛 0 | 🌐 Assembly | 📅 2021-02-07 - A command-line system information tool. (assembly)
+* [afetch](https://github.com/sticky-tea/afetch) ⭐ 60 | 🐛 0 | 🌐 Assembly | 📅 2021-02-07 - A command-line system information tool. (assembly)
 * [pokefetch](https://github.com/rmccorm4/Pokefetch) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2019-09-16 - Command-line tool similar to neofetch for looking up pokemon in terminal. (python)
 * [rsfetch](https://github.com/Phate6660/rsfetch) ⭐ 51 | 🐛 3 | 🌐 Rust | 📅 2023-09-09 - A WIP rewrite of rsfetch from scratch. (rust)
 * [archimede](https://github.com/gennaro-tedesco/archimede) ⭐ 47 | 🐛 0 | 🌐 Go | 📅 2023-04-05 - Unobtrusive project information fetcher. (go)
@@ -454,8 +454,8 @@
 * [cinfo](https://github.com/mrdotx/cinfo) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2026-07-15 - a fast and minimal system information tool for linux-based operating systems. (C)
 * [efetch](https://github.com/NoSequel/efetch) ⭐ 10 | 🐛 4 | 🌐 C | 📅 2024-07-30 - No description. (c)
 * [tfetch](https://github.com/Endlassy/tfetch) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-03-26 - Tree view like fetch. (python)
-* [Kat-OH](https://github.com/70xH/Kat-OH) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2021-05-08 - A huge fetch. (go)
 * [fetch](https://github.com/aeosynth/fetch) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-06 - polyglot fetch. (javaScript,rust,go)
+* [Kat-OH](https://github.com/70xH/Kat-OH) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2021-05-08 - A huge fetch. (go)
 * [lunafetch](https://github.com/SugarBlank/LunaFetch) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2021-05-02 - Returns system information fast. (C++)
 * [fetcheya](https://github.com/ferhatgec/fetcheya) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2020-11-29 - Fegeya Fetcheya is Scrift's System Information Tool. (C++)
 * [wfetch](https://github.com/freddie-nelson/wfetch) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2021-02-14 - A neofetch like cli tool for windows. (go)
@@ -491,31 +491,31 @@
 
 #### RSS/Atom Feed Readers
 
-* [newsboat](https://github.com/newsboat/newsboat) ⭐ 3,885 | 🐛 406 | 🌐 C++ | 📅 2026-08-15 - An RSS/Atom feed reader forked from Newsbeuter. (C++/Rust)
+* [newsboat](https://github.com/newsboat/newsboat) ⭐ 3,884 | 🐛 406 | 🌐 C++ | 📅 2026-08-15 - An RSS/Atom feed reader forked from Newsbeuter. (C++/Rust)
 * [ureader](https://github.com/pxqr/ureader) ⭐ 11 | 🐛 8 | 🌐 Haskell | 📅 2014-08-31 - A minimalistic cli RRS reader with unicode and color support. (Haskell)
 * [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html) - A very minimal and lightweight RSS/Atom Reader. (C)
 * [snownews](https://github.com/msharov/snownews) - A text-mode RSS/Atom aggregator. (C)
 
 #### Misc Tools
 
-* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,558 | 🐛 1,130 | 🌐 C | 📅 2026-08-16 - Command Line Media Player
-* [Eza](https://github.com/eza-community/eza) ⭐ 22,951 | 🐛 425 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for 'ls' with icons and colors. (Rust)
+* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,567 | 🐛 1,130 | 🌐 C | 📅 2026-08-17 - Command Line Media Player
+* [Eza](https://github.com/eza-community/eza) ⭐ 22,956 | 🐛 428 | 🌐 Rust | 📅 2026-08-06 - A modern replacement for 'ls' with icons and colors. (Rust)
 * [genact](https://github.com/svenstaro/genact) ⭐ 12,167 | 🐛 15 | 🌐 Rust | 📅 2026-08-01 - A nonsense activity generator. (Rust)
 * [pywal](https://github.com/dylanaraps/pywal) ⚠️ Archived - Generate and change color-schemes on the fly. (python)
 * [No-More-Secrets](https://github.com/bartobri/no-more-secrets) ⭐ 7,802 | 🐛 1 | 🌐 C | 📅 2025-12-13 - A command line tool that recreates the famous data decryption effect. (C)
 * [Lolcat](https://github.com/busyloop/lolcat) ⭐ 6,565 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns. (ruby)
-* [Console-Services](https://github.com/chubin/awesome-console-services) ⭐ 6,497 | 🐛 23 | 📅 2026-02-01 - A curated list of awesome console services.
+* [Console-Services](https://github.com/chubin/awesome-console-services) ⭐ 6,498 | 🐛 23 | 📅 2026-02-01 - A curated list of awesome console services.
 * [Themer](https://github.com/mjswensen/themer) ⭐ 5,845 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-27 - themer takes a set of colors and generates themes for your apps. (javascript)
-* [musikcube](https://github.com/clangen/musikcube) ⭐ 4,822 | 🐛 177 | 🌐 C++ | 📅 2026-03-23 - a cross-platform, terminal-based music player. (C++)
+* [musikcube](https://github.com/clangen/musikcube) ⭐ 4,821 | 🐛 177 | 🌐 C++ | 📅 2026-03-23 - a cross-platform, terminal-based music player. (C++)
 * [Chalk-Animation](https://github.com/bokub/chalk-animation) ⭐ 2,182 | 🐛 5 | 🌐 JavaScript | 📅 2022-11-13 - Colorful animations on terminal. (javascript)
-* [tdrop](https://github.com/noctuid/tdrop) ⭐ 1,265 | 🐛 28 | 🌐 Shell | 📅 2026-02-24 - A glorified WM-independent dropdown creator. (Shell)
+* [tdrop](https://github.com/noctuid/tdrop) ⭐ 1,264 | 🐛 28 | 🌐 Shell | 📅 2026-02-24 - A glorified WM-independent dropdown creator. (Shell)
 * [fum](https://github.com/qxb3/fum) ⭐ 283 | 🐛 5 | 🌐 Rust | 📅 2026-07-11 - A fully ricable tui-based mpris music client. (Rust)
 * [Cbonsai](https://gitlab.com/jallbrit/cbonsai) - grow bonsai trees in your terminal. (C)
 
 #### Informative
 
-* [Wttr](https://github.com/chubin/wttr.in) ⭐ 30,349 | 🐛 329 | 🌐 Go | 📅 2026-08-02 - The right way to check the weather on terminal. (python)
-* [Wtf](https://github.com/wtfutil/wtf) ⭐ 17,058 | 🐛 102 | 🌐 Go | 📅 2026-08-05 - The personal information dashboard for your terminal. (go)
+* [Wttr](https://github.com/chubin/wttr.in) ⭐ 30,360 | 🐛 330 | 🌐 Go | 📅 2026-08-02 - The right way to check the weather on terminal. (python)
+* [Wtf](https://github.com/wtfutil/wtf) ⭐ 17,055 | 🐛 102 | 🌐 Go | 📅 2026-08-05 - The personal information dashboard for your terminal. (go)
 * [Howdoi](https://github.com/gleitz/howdoi) ⭐ 10,841 | 🐛 29 | 🌐 Python | 📅 2026-04-15 - instant coding answers via the command line. (python)
 * [Wego](https://github.com/schachmat/wego) ⭐ 8,533 | 🐛 16 | 🌐 Go | 📅 2026-08-01 - Another weather app for terminal with cool ascii art. (go)
 * [Getnews.tech](https://github.com/omgimanerd/getnews.tech) ⭐ 173 | 🐛 13 | 🌐 JavaScript | 📅 2023-04-15 - A web server that fetches data from the News API and formats it for display in the terminal. (javascript)
@@ -524,9 +524,9 @@
 
 ### Colorschemes
 
-* [Dracula](https://github.com/dracula/dracula-theme) ⭐ 23,556 | 🐛 3 | 📅 2026-08-13 - A Dark theme for all the things!.
-* [Catppuccin](https://github.com/catppuccin/catppuccin) ⭐ 19,647 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-25 - Soothing pastel theme for the high-spirited!
-* [Gogh](https://github.com/Mayccoll/Gogh) ⭐ 10,291 | 🐛 3 | 🌐 Shell | 📅 2026-08-16 - Color Scheme for Gnome Terminal and Pantheon Terminal
+* [Dracula](https://github.com/dracula/dracula-theme) ⭐ 23,557 | 🐛 3 | 📅 2026-08-13 - A Dark theme for all the things!.
+* [Catppuccin](https://github.com/catppuccin/catppuccin) ⭐ 19,651 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-25 - Soothing pastel theme for the high-spirited!
+* [Gogh](https://github.com/Mayccoll/Gogh) ⭐ 10,292 | 🐛 3 | 🌐 Shell | 📅 2026-08-16 - Color Scheme for Gnome Terminal and Pantheon Terminal
 * [Nord](https://github.com/arcticicestudio/nord) ⭐ 6,864 | 🐛 84 | 🌐 SCSS | 📅 2023-10-18 - An arctic, north-bluish color palette.
 * [everforest](https://github.com/sainnhe/everforest) ⭐ 4,173 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-08 - Comfortable & Pleasant Color Scheme.
 * [gruvbox](https://github.com/morhetz/gruvbox-contrib) ⭐ 1,775 | 🐛 52 | 🌐 SCSS | 📅 2024-06-08 - Retro groove color scheme.
@@ -552,20 +552,20 @@
 
 ### Shells
 
-* [Powershell](https://github.com/PowerShell/PowerShell) ⭐ 54,901 | 🐛 1,601 | 🌐 C# | 📅 2026-08-15 - A cross platform shell for automation and configuration. (C#)
-* [Nushell](https://github.com/nushell/nushell) ⭐ 40,271 | 🐛 1,417 | 🌐 Rust | 📅 2026-08-16 - A new type of modern shell. (Rust)
-* [Fish](https://github.com/fish-shell/fish-shell) ⭐ 34,022 | 🐛 570 | 🌐 Rust | 📅 2026-08-16 - The user-friendly command line shell. (C++)
-* [Xonsh](https://github.com/xonsh/xonsh) ⭐ 9,602 | 🐛 73 | 🌐 Python | 📅 2026-08-16 - Python-powered, cross-platform, Unix-gazing shell. (Python)
-* [Elvish](https://github.com/elves/elvish) ⭐ 6,356 | 🐛 350 | 🌐 Go | 📅 2026-03-31 - Expressive Programming Language + Versatile Interactive Shell. (Go)
+* [Powershell](https://github.com/PowerShell/PowerShell) ⭐ 54,905 | 🐛 1,601 | 🌐 C# | 📅 2026-08-17 - A cross platform shell for automation and configuration. (C#)
+* [Nushell](https://github.com/nushell/nushell) ⭐ 40,278 | 🐛 1,423 | 🌐 Rust | 📅 2026-08-16 - A new type of modern shell. (Rust)
+* [Fish](https://github.com/fish-shell/fish-shell) ⭐ 34,027 | 🐛 570 | 🌐 Rust | 📅 2026-08-17 - The user-friendly command line shell. (C++)
+* [Xonsh](https://github.com/xonsh/xonsh) ⭐ 9,604 | 🐛 72 | 🌐 Python | 📅 2026-08-17 - Python-powered, cross-platform, Unix-gazing shell. (Python)
+* [Elvish](https://github.com/elves/elvish) ⭐ 6,358 | 🐛 350 | 🌐 Go | 📅 2026-03-31 - Expressive Programming Language + Versatile Interactive Shell. (Go)
 * [Xiki](https://github.com/trogdoro/xiki) ⭐ 3,756 | 🐛 118 | 🌐 Ruby | 📅 2020-01-03 - a shell console with gui features. (ruby)
-* [Oil](https://github.com/oilshell/oil) ⭐ 3,379 | 🐛 610 | 🌐 Python | 📅 2026-05-31 - A Bash compatible, with modern Unix shell. (Python)
+* [Oil](https://github.com/oilshell/oil) ⭐ 3,380 | 🐛 610 | 🌐 Python | 📅 2026-05-31 - A Bash compatible, with modern Unix shell. (Python)
 * [Ammonite](https://github.com/com-lihaoyi/Ammonite) ⭐ 2,631 | 🐛 163 | 🌐 Scala | 📅 2026-06-22 - Scripting with Scala. (scala)
-* [Murex](https://github.com/lmorg/murex) ⭐ 1,904 | 🐛 84 | 🌐 Go | 📅 2026-07-29 - Bash-like $SHELL designed for greater commandline productivity and safer shell scripts. (go)
+* [Murex](https://github.com/lmorg/murex) ⭐ 1,905 | 🐛 84 | 🌐 Go | 📅 2026-07-29 - Bash-like $SHELL designed for greater commandline productivity and safer shell scripts. (go)
 * [Ion](https://github.com/redox-os/ion) ⭐ 1,656 | 🐛 60 | 🌐 Rust | 📅 2026-05-02 - modern system shell that features a simple, yet powerful, syntax. (Rust)
 * [Oh](https://github.com/michaelmacinnis/oh) ⭐ 1,384 | 🐛 3 | 🌐 Go | 📅 2023-09-19 - A new Unix shell. (go)
 * [Nsh](https://github.com/nuta/nsh) ⭐ 966 | 🐛 24 | 🌐 Rust | 📅 2023-02-11 - command-line shell like fish, but POSIX compatible. (rust)
 * [ksh93](https://github.com/att/ast) ⚠️ Archived - Korn Shell. (C)
-* [Hilbish](https://github.com/Hilbis/Hilbish) ⭐ 562 | 🐛 21 | 🌐 Go | 📅 2026-08-14 - a nice lil shell for lua people made with go and lua. (go)
+* [Hilbish](https://github.com/Hilbis/Hilbish) ⭐ 562 | 🐛 22 | 🌐 Go | 📅 2026-08-14 - a nice lil shell for lua people made with go and lua. (go)
 * [Mrsh](https://github.com/emersion/mrsh) ⭐ 529 | 🐛 63 | 🌐 C | 📅 2024-03-10 - A minimal POSIX shell. (C)
 * [Oksh](https://github.com/ibara/oksh) ⭐ 452 | 🐛 17 | 🌐 C | 📅 2026-06-10 - Portable OpenBSD ksh, based on the Public Domain Korn Shell. (C)
 * [Es](https://github.com/wryun/es-shell) ⭐ 371 | 🐛 27 | 🌐 C | 📅 2026-05-25 - a shell with higher-order functions. (C)
@@ -589,19 +589,19 @@
 
 ### Prompts
 
-* [Starship](https://github.com/starship/starship) ⭐ 59,428 | 🐛 1,026 | 🌐 Rust | 📅 2026-08-16 - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 54,920 | 🐛 150 | 🌐 Shell | 📅 2026-08-15 - A Zsh theme revolves around customization and speed
-* [Spaceship](https://github.com/denysdovhan/spaceship-prompt) ⭐ 20,559 | 🐛 128 | 🌐 Shell | 📅 2026-08-05 - A Zsh prompt for Astronauts
-* [Pure](https://github.com/sindresorhus/pure) ⭐ 14,391 | 🐛 0 | 🌐 Shell | 📅 2026-07-16 - Pretty, minimal and fast ZSH prompt
+* [Starship](https://github.com/starship/starship) ⭐ 59,446 | 🐛 1,030 | 🌐 Rust | 📅 2026-08-17 - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 54,924 | 🐛 150 | 🌐 Shell | 📅 2026-08-15 - A Zsh theme revolves around customization and speed
+* [Spaceship](https://github.com/denysdovhan/spaceship-prompt) ⭐ 20,561 | 🐛 128 | 🌐 Shell | 📅 2026-08-05 - A Zsh prompt for Astronauts
+* [Pure](https://github.com/sindresorhus/pure) ⭐ 14,393 | 🐛 0 | 🌐 Shell | 📅 2026-07-16 - Pretty, minimal and fast ZSH prompt
 * [Powerlevel9k](https://github.com/bhilburn/powerlevel9k) ⚠️ Archived - Legacy prompt for ZSH
-* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,934 | 🐛 33 | 🌐 Shell | 📅 2026-04-10 - An informative and fancy bash prompt for Git users
-* [Powerline](https://github.com/b-ryan/powerline-shell) ⭐ 6,292 | 🐛 131 | 🌐 Python | 📅 2024-03-19 - A beautiful and useful prompt for your shell. (python)
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,933 | 🐛 33 | 🌐 Shell | 📅 2026-04-10 - An informative and fancy bash prompt for Git users
+* [Powerline](https://github.com/b-ryan/powerline-shell) ⭐ 6,291 | 🐛 131 | 🌐 Python | 📅 2024-03-19 - A beautiful and useful prompt for your shell. (python)
 * [Pokemon](https://github.com/LazoCoder/Pokemon-Terminal) ⭐ 4,793 | 🐛 47 | 🌐 Python | 📅 2026-02-25 - Pokemon terminal themes
-* [liquidprompt](https://github.com/nojhan/liquidprompt) ⭐ 4,673 | 🐛 29 | 🌐 Shell | 📅 2026-08-13 - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-* [Tide](https://github.com/IlanCosman/tide) ⭐ 4,222 | 🐛 160 | 🌐 Shell | 📅 2025-12-15 - A modern prompt manager for Fish.
+* [liquidprompt](https://github.com/nojhan/liquidprompt) ⭐ 4,673 | 🐛 30 | 🌐 Shell | 📅 2026-08-13 - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+* [Tide](https://github.com/IlanCosman/tide) ⭐ 4,223 | 🐛 160 | 🌐 Shell | 📅 2025-12-15 - A modern prompt manager for Fish.
 * [emojify](https://github.com/mrowa44/emojify) ⭐ 1,584 | 🐛 10 | 🌐 Shell | 📅 2024-01-08 - Emoji on the command line.
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) ⭐ 1,155 | 🐛 2 | 🌐 Shell | 📅 2025-11-21 - Bash prompt with colors, git statuses, and git branches.
-* [Synth-shell](https://github.com/andresgongora/synth-shell) ⭐ 1,133 | 🐛 21 | 🌐 Shell | 📅 2024-11-17 - improves your terminal experience and productivity through a combination of small bash scripts
+* [Synth-shell](https://github.com/andresgongora/synth-shell) ⭐ 1,132 | 🐛 21 | 🌐 Shell | 📅 2024-11-17 - improves your terminal experience and productivity through a combination of small bash scripts
 * [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 965 | 🐛 21 | 🌐 Shell | 📅 2026-02-24 - Minimal, lag-free prompt with async Git status.
 * [bash-powerline](https://github.com/riobard/bash-powerline) ⭐ 911 | 🐛 16 | 🌐 Shell | 📅 2023-07-06 - Powerline-style Bash prompt in pure Bash script.
 * [silver](https://github.com/reujab/silver) ⭐ 504 | 🐛 22 | 🌐 Rust | 📅 2024-02-21 - A cross-shell customizable powerline-like prompt with icons. (rust)
@@ -625,11 +625,11 @@
 
 ### Background setting utilities and generators
 
-* [komorebi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,752 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux. (vala)
+* [komorebi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,751 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux. (vala)
 * [dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) ⭐ 2,196 | 🐛 23 | 🌐 Shell | 📅 2023-08-22 - A simple bash script to set wallpapers according to current time, using cron job scheduler .(shell)
 * [feh](https://github.com/derf/feh) ⭐ 1,905 | 🐛 257 | 🌐 C | 📅 2026-07-22 - a fast and light image viewer / setter. (C)
 * [xwinwrapl](https://github.com/ujjwal96/xwinwrap) ⚠️ Archived - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background. (C)
-* [azote](https://github.com/nwg-piotr/azote) ⭐ 413 | 🐛 9 | 🌐 Python | 📅 2025-05-01 - Wallpaper and colour manager for Sway, i3 and some other WMs. (python)
+* [azote](https://github.com/nwg-piotr/azote) ⭐ 412 | 🐛 9 | 🌐 Python | 📅 2025-05-01 - Wallpaper and colour manager for Sway, i3 and some other WMs. (python)
 * [battery-wallpaper](https://github.com/adi1090x/battery-wallpaper) ⭐ 402 | 🐛 3 | 🌐 Shell | 📅 2023-10-17 - Simple bash script to set wallpaper according to battery percentage with charging animations. (shell)
 * [wallset](https://github.com/terroo/wallset) ⭐ 399 | 🐛 37 | 🌐 Shell | 📅 2023-10-20 - A wallpaper manager that makes it possible to put videos as wallpaper. (shell)
 * [Nitrogen](https://github.com/l3ib/nitrogen) ⭐ 385 | 🐛 64 | 🌐 C++ | 📅 2024-05-22 - Background browser and setter for X windows. (c++)
@@ -689,13 +689,13 @@
 
 ## Related lists
 
-* [terminals are sexy](https://github.com/k4m4/terminals-are-sexy) ⭐ 13,077 | 🐛 147 | 🌐 Shell | 📅 2024-07-26 - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [terminals are sexy](https://github.com/k4m4/terminals-are-sexy) ⭐ 13,078 | 🐛 148 | 🌐 Shell | 📅 2024-07-26 - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/Sparkenstein/awesome-ricing/blob/master/contributing.md) ⭐ 4,435 | 🐛 13 | 📅 2026-06-10 and [code of conduct](https://github.com/Sparkenstein/awesome-ricing/blob/master/code-of-conduct.md) ⭐ 4,435 | 🐛 13 | 📅 2026-06-10 first.
+Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/Sparkenstein/awesome-ricing/blob/master/contributing.md) ⭐ 4,438 | 🐛 13 | 📅 2026-06-10 and [code of conduct](https://github.com/Sparkenstein/awesome-ricing/blob/master/code-of-conduct.md) ⭐ 4,438 | 🐛 13 | 📅 2026-06-10 first.
 
 ## License
 
@@ -707,4 +707,4 @@ To the extent possible under law, [Sparkenstein](https://github.com/Sparkenstein
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
