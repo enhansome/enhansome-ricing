@@ -20,10 +20,10 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-09-21T12:28:58Z",
-                    "open_issues": 1387,
+                    "open_issues": 1388,
                     "owner": "swaywm",
                     "repo": "sway",
-                    "stars": 17344,
+                    "stars": 17346,
                     "topics": [
                       "compositor",
                       "wayland"
@@ -47,7 +47,7 @@
                     "open_issues": 373,
                     "owner": "i3",
                     "repo": "i3",
-                    "stars": 10567,
+                    "stars": 10569,
                     "topics": [
                       "bsd",
                       "i3",
@@ -94,7 +94,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-20T09:28:44Z",
-                    "open_issues": 208,
+                    "open_issues": 207,
                     "owner": "qtile",
                     "repo": "qtile",
                     "stars": 5301,
@@ -125,7 +125,7 @@
                     "open_issues": 198,
                     "owner": "paperwm",
                     "repo": "PaperWM",
-                    "stars": 4315,
+                    "stars": 4313,
                     "topics": [
                       "gnome-shell-extension",
                       "tiling-window-manager",
@@ -146,7 +146,7 @@
                     "id": 248859018,
                     "language": "Zig",
                     "license": null,
-                    "last_commit": "2026-09-13T12:02:57Z",
+                    "last_commit": "2026-09-23T13:46:49Z",
                     "open_issues": 67,
                     "owner": "riverwm",
                     "repo": "river",
@@ -204,7 +204,7 @@
                     "open_issues": 204,
                     "owner": "ch11ng",
                     "repo": "exwm",
-                    "stars": 2823,
+                    "stars": 2824,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:10:44.049Z"
@@ -887,7 +887,7 @@
                     "id": 42719584,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-09-22T19:59:35Z",
+                    "last_commit": "2026-09-23T19:51:01Z",
                     "open_issues": 0,
                     "owner": "KDE",
                     "repo": "kwin",
@@ -1641,11 +1641,11 @@
                     "id": 470730648,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-22T12:33:40Z",
+                    "last_commit": "2026-09-23T14:24:19Z",
                     "open_issues": 202,
                     "owner": "hyprwm",
                     "repo": "Hyprland",
-                    "stars": 38638,
+                    "stars": 38654,
                     "topics": [
                       "compositor",
                       "cpp26",
@@ -1668,10 +1668,10 @@
                     "language": "Rust",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-22T15:15:23Z",
-                    "open_issues": 466,
+                    "open_issues": 464,
                     "owner": "niri-wm",
                     "repo": "niri",
-                    "stars": 27907,
+                    "stars": 27928,
                     "topics": [
                       "rust",
                       "smithay",
@@ -1698,7 +1698,7 @@
                     "open_issues": 571,
                     "owner": "awesomeWM",
                     "repo": "awesome",
-                    "stars": 6961,
+                    "stars": 6963,
                     "topics": [
                       "awesomewm",
                       "c",
@@ -1824,30 +1824,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "instantwm",
-                  "description": "window manager for instantOS . (C)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The window manager for instantOS",
-                    "homepage": null,
-                    "id": 233308257,
-                    "language": "Rust",
-                    "license": "MIT",
-                    "last_commit": "2026-09-22T08:08:26Z",
-                    "open_issues": 22,
-                    "owner": "instantOS",
-                    "repo": "instantWM",
-                    "stars": 342,
-                    "topics": [
-                      "hacktoberfest",
-                      "instantos"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:10:44.049Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "monsterwm",
                   "description": "tiny but monstrous tiling window manager. (C)",
                   "children": [],
@@ -1862,8 +1838,32 @@
                     "open_issues": 12,
                     "owner": "c00kiemon5ter",
                     "repo": "monsterwm",
-                    "stars": 342,
+                    "stars": 343,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-29T01:10:44.049Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "instantwm",
+                  "description": "window manager for instantOS . (C)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The window manager for instantOS",
+                    "homepage": null,
+                    "id": 233308257,
+                    "language": "Rust",
+                    "license": "MIT",
+                    "last_commit": "2026-09-23T16:47:35Z",
+                    "open_issues": 22,
+                    "owner": "instantOS",
+                    "repo": "instantWM",
+                    "stars": 342,
+                    "topics": [
+                      "hacktoberfest",
+                      "instantos"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:10:44.049Z"
                 },
@@ -2089,7 +2089,7 @@
                     "open_issues": 258,
                     "owner": "asmvik",
                     "repo": "yabai",
-                    "stars": 29645,
+                    "stars": 29652,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:10:44.049Z"
@@ -2107,10 +2107,10 @@
                     "language": "Swift",
                     "license": "MIT",
                     "last_commit": "2026-09-21T10:12:44Z",
-                    "open_issues": 207,
+                    "open_issues": 208,
                     "owner": "nikitabobko",
                     "repo": "AeroSpace",
-                    "stars": 23197,
+                    "stars": 23217,
                     "topics": [
                       "apple",
                       "i3",
@@ -2141,7 +2141,7 @@
                     "open_issues": 296,
                     "owner": "ianyh",
                     "repo": "Amethyst",
-                    "stars": 16272,
+                    "stars": 16274,
                     "topics": [
                       "mac",
                       "macos",
@@ -2235,7 +2235,7 @@
                 "open_issues": 14,
                 "owner": "pipeseroni",
                 "repo": "pipes.sh",
-                "stars": 3028,
+                "stars": 3029,
                 "topics": [
                   "bash",
                   "pipes-sh",
@@ -2261,7 +2261,7 @@
                 "open_issues": 34,
                 "owner": "xorg62",
                 "repo": "tty-clock",
-                "stars": 1155,
+                "stars": 1154,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:44.049Z"
@@ -2320,11 +2320,11 @@
                 "id": 77213120,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T04:03:18Z",
-                "open_issues": 2840,
+                "last_commit": "2026-09-23T15:48:54Z",
+                "open_issues": 2844,
                 "owner": "Eugeny",
                 "repo": "tabby",
-                "stars": 74642,
+                "stars": 74660,
                 "topics": [
                   "serial",
                   "ssh-client",
@@ -2351,7 +2351,7 @@
                 "open_issues": 342,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65791,
+                "stars": 65800,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -2380,10 +2380,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-21T20:44:39Z",
-                "open_issues": 1048,
+                "open_issues": 1049,
                 "owner": "vercel",
                 "repo": "hyper",
-                "stars": 44740,
+                "stars": 44741,
                 "topics": [
                   "css",
                   "html",
@@ -2410,11 +2410,11 @@
                 "id": 292014229,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-22T16:05:44Z",
-                "open_issues": 1936,
+                "last_commit": "2026-09-23T14:58:50Z",
+                "open_issues": 1941,
                 "owner": "zellij-org",
                 "repo": "zellij",
-                "stars": 35508,
+                "stars": 35516,
                 "topics": [
                   "multiplexer",
                   "terminal",
@@ -2435,11 +2435,11 @@
                 "id": 71056775,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T13:21:50Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-23T15:46:51Z",
+                "open_issues": 18,
                 "owner": "kovidgoyal",
                 "repo": "kitty",
-                "stars": 35031,
+                "stars": 35048,
                 "topics": [
                   "c",
                   "go",
@@ -2470,10 +2470,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T05:17:28Z",
-                "open_issues": 1873,
+                "open_issues": 1875,
                 "owner": "wezterm",
                 "repo": "wezterm",
-                "stars": 28987,
+                "stars": 29004,
                 "topics": [
                   "rust",
                   "serial",
@@ -2501,7 +2501,7 @@
                 "open_issues": 568,
                 "owner": "Swordfish90",
                 "repo": "cool-retro-term",
-                "stars": 26425,
+                "stars": 26438,
                 "topics": [
                   "linux",
                   "macos",
@@ -2529,7 +2529,7 @@
                 "open_issues": 220,
                 "owner": "railsware",
                 "repo": "upterm",
-                "stars": 19052,
+                "stars": 19050,
                 "topics": [
                   "console",
                   "electron",
@@ -2743,10 +2743,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-07T14:38:56Z",
-                "open_issues": 172,
+                "open_issues": 173,
                 "owner": "gnome-terminator",
                 "repo": "terminator",
-                "stars": 2660,
+                "stars": 2662,
                 "topics": [
                   "gnome",
                   "gtk",
@@ -2811,11 +2811,11 @@
                 "id": 2811348,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T14:32:46Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-23T07:55:48Z",
+                "open_issues": 64,
                 "owner": "kmscon",
                 "repo": "kmscon",
-                "stars": 909,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:44.049Z"
@@ -2833,10 +2833,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T12:49:34Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "borisfaure",
                 "repo": "terminology",
-                "stars": 737,
+                "stars": 738,
                 "topics": [
                   "c",
                   "console",
@@ -3432,10 +3432,10 @@
                     "language": "Java",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-16T16:17:14Z",
-                    "open_issues": 616,
+                    "open_issues": 617,
                     "owner": "termux",
                     "repo": "termux-app",
-                    "stars": 61250,
+                    "stars": 61292,
                     "topics": [
                       "android",
                       "hacktoberfest",
@@ -3483,7 +3483,7 @@
                     "open_issues": 2,
                     "owner": "aligrudi",
                     "repo": "fbpad",
-                    "stars": 147,
+                    "stars": 148,
                     "topics": [
                       "c",
                       "framebuffer",
@@ -3567,7 +3567,7 @@
                 "open_issues": 236,
                 "owner": "polybar",
                 "repo": "polybar",
-                "stars": 15345,
+                "stars": 15346,
                 "topics": [
                   "bar",
                   "bspwm",
@@ -3595,10 +3595,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-07-17T07:29:44Z",
-                "open_issues": 380,
+                "open_issues": 381,
                 "owner": "elkowar",
                 "repo": "eww",
-                "stars": 12680,
+                "stars": 12681,
                 "topics": [
                   "desktop",
                   "eww",
@@ -3628,10 +3628,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T06:44:19Z",
-                "open_issues": 78,
+                "open_issues": 85,
                 "owner": "FelixKratz",
                 "repo": "SketchyBar",
-                "stars": 12403,
+                "stars": 12412,
                 "topics": [
                   "bar",
                   "customization",
@@ -3662,10 +3662,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-20T21:04:48Z",
-                "open_issues": 745,
+                "open_issues": 746,
                 "owner": "Alexays",
                 "repo": "Waybar",
-                "stars": 11978,
+                "stars": 11981,
                 "topics": [
                   "bar",
                   "gtk",
@@ -3694,7 +3694,7 @@
                 "open_issues": 97,
                 "owner": "brndnmtthws",
                 "repo": "conky",
-                "stars": 8521,
+                "stars": 8523,
                 "topics": [
                   "c-plus-plus",
                   "cairo",
@@ -3724,7 +3724,7 @@
                 "open_issues": 125,
                 "owner": "greshake",
                 "repo": "i3status-rust",
-                "stars": 3149,
+                "stars": 3150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:44.049Z"
@@ -3745,7 +3745,7 @@
                 "open_issues": 63,
                 "owner": "vivien",
                 "repo": "i3blocks",
-                "stars": 2471,
+                "stars": 2472,
                 "topics": [
                   "i3",
                   "i3bar",
@@ -3994,7 +3994,7 @@
                 "id": 268659493,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T23:59:34Z",
+                "last_commit": "2026-09-23T09:01:21Z",
                 "open_issues": 22,
                 "owner": "folke",
                 "repo": "polydock",
@@ -4332,11 +4332,11 @@
                 "id": 1370049625,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-22T13:53:01Z",
+                "last_commit": "2026-09-22T22:59:03Z",
                 "open_issues": 0,
                 "owner": "Silvertree2010",
                 "repo": "ApolloShell",
-                "stars": 62,
+                "stars": 67,
                 "topics": [
                   "appkit",
                   "caelestia",
@@ -4716,10 +4716,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-19T10:06:33Z",
-                    "open_issues": 545,
+                    "open_issues": 546,
                     "owner": "aristocratos",
                     "repo": "btop",
-                    "stars": 34709,
+                    "stars": 34728,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:10:44.049Z"
@@ -4736,11 +4736,11 @@
                     "id": 2909429,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-22T16:24:20Z",
+                    "last_commit": "2026-09-23T15:55:43Z",
                     "open_issues": 106,
                     "owner": "nicolargo",
                     "repo": "glances",
-                    "stars": 33650,
+                    "stars": 33663,
                     "topics": [
                       "monitoring",
                       "multi-platform",
@@ -4770,7 +4770,7 @@
                     "open_issues": 62,
                     "owner": "sqshq",
                     "repo": "sampler",
-                    "stars": 14802,
+                    "stars": 14805,
                     "topics": [
                       "alerting",
                       "charts",
@@ -4800,11 +4800,11 @@
                     "id": 205042455,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-22T04:56:50Z",
-                    "open_issues": 104,
+                    "last_commit": "2026-09-23T00:54:06Z",
+                    "open_issues": 105,
                     "owner": "ClementTsang",
                     "repo": "bottom",
-                    "stars": 14042,
+                    "stars": 14052,
                     "topics": [
                       "bottom",
                       "btm",
@@ -4835,7 +4835,7 @@
                     "open_issues": 64,
                     "owner": "aristocratos",
                     "repo": "bashtop",
-                    "stars": 11117,
+                    "stars": 11118,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:10:44.049Z"
@@ -4968,7 +4968,7 @@
                     "open_issues": 19,
                     "owner": "XuehaiPan",
                     "repo": "nvitop",
-                    "stars": 7156,
+                    "stars": 7161,
                     "topics": [
                       "command-line-tool",
                       "console",
@@ -5009,7 +5009,7 @@
                     "open_issues": 39,
                     "owner": "amanusk",
                     "repo": "s-tui",
-                    "stars": 5100,
+                    "stars": 5101,
                     "topics": [
                       "cli",
                       "console",
@@ -5045,7 +5045,7 @@
                     "open_issues": 80,
                     "owner": "MrRio",
                     "repo": "vtop",
-                    "stars": 4173,
+                    "stars": 4172,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:10:44.049Z"
@@ -5063,10 +5063,10 @@
                     "language": "C",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-12T14:38:16Z",
-                    "open_issues": 75,
+                    "open_issues": 80,
                     "owner": "sysstat",
                     "repo": "sysstat",
-                    "stars": 3368,
+                    "stars": 3369,
                     "topics": [
                       "c",
                       "cpu",
@@ -5102,7 +5102,7 @@
                     "open_issues": 40,
                     "owner": "bvaisvil",
                     "repo": "zenith",
-                    "stars": 3054,
+                    "stars": 3055,
                     "topics": [
                       "cpu",
                       "disk",
@@ -5170,7 +5170,7 @@
                     "id": 86158629,
                     "language": "C",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-21T10:13:14Z",
+                    "last_commit": "2026-09-23T19:54:24Z",
                     "open_issues": 60,
                     "owner": "Atoptool",
                     "repo": "atop",
@@ -5339,7 +5339,7 @@
                         "open_issues": 18,
                         "owner": "karlstav",
                         "repo": "cava",
-                        "stars": 6431,
+                        "stars": 6432,
                         "topics": [
                           "alsa",
                           "audio-visualizer",
@@ -5772,10 +5772,10 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-09-21T23:25:15Z",
-                    "open_issues": 62,
+                    "open_issues": 63,
                     "owner": "sxyazi",
                     "repo": "yazi",
-                    "stars": 42361,
+                    "stars": 42376,
                     "topics": [
                       "android",
                       "asyncio",
@@ -5816,7 +5816,7 @@
                     "open_issues": 1,
                     "owner": "jarun",
                     "repo": "nnn",
-                    "stars": 21993,
+                    "stars": 21999,
                     "topics": [
                       "android",
                       "batch-rename",
@@ -5858,7 +5858,7 @@
                     "open_issues": 897,
                     "owner": "ranger",
                     "repo": "ranger",
-                    "stars": 17409,
+                    "stars": 17410,
                     "topics": [
                       "console",
                       "file-launcher",
@@ -5905,11 +5905,11 @@
                     "id": 342030057,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-22T19:19:02Z",
+                    "last_commit": "2026-09-23T09:17:39Z",
                     "open_issues": 12,
                     "owner": "sayanarijit",
                     "repo": "xplr",
-                    "stars": 4827,
+                    "stars": 4828,
                     "topics": [
                       "cli",
                       "command-line",
@@ -6009,7 +6009,7 @@
                     "open_issues": 146,
                     "owner": "vifm",
                     "repo": "vifm",
-                    "stars": 3273,
+                    "stars": 3274,
                     "topics": [
                       "c",
                       "console-application",
@@ -6082,7 +6082,7 @@
                     "open_issues": 695,
                     "owner": "MidnightCommander",
                     "repo": "mc",
-                    "stars": 986,
+                    "stars": 987,
                     "topics": [
                       "c",
                       "console",
@@ -6387,7 +6387,7 @@
                     "open_issues": 331,
                     "owner": "chubin",
                     "repo": "wttr.in",
-                    "stars": 30577,
+                    "stars": 30580,
                     "topics": [
                       "ascii-art",
                       "curl",
@@ -6475,11 +6475,11 @@
                     "id": 340181518,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T17:09:59Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-09-23T15:09:34Z",
+                    "open_issues": 95,
                     "owner": "fastfetch-cli",
                     "repo": "fastfetch",
-                    "stars": 24730,
+                    "stars": 24744,
                     "topics": [
                       "bsdfetch",
                       "command-line",
@@ -6536,11 +6536,11 @@
                     "id": 148829497,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-20T22:13:05Z",
-                    "open_issues": 62,
+                    "last_commit": "2026-09-23T09:07:27Z",
+                    "open_issues": 63,
                     "owner": "o2sh",
                     "repo": "onefetch",
-                    "stars": 12050,
+                    "stars": 12051,
                     "topics": [
                       "cli",
                       "command-line",
@@ -6674,7 +6674,7 @@
                     "open_issues": 11,
                     "owner": "Macchina-CLI",
                     "repo": "macchina",
-                    "stars": 1973,
+                    "stars": 1974,
                     "topics": [
                       "command-line",
                       "cross-platform",
@@ -6727,7 +6727,7 @@
                     "id": 330776995,
                     "language": "C",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-22T13:07:06Z",
+                    "last_commit": "2026-09-23T08:40:01Z",
                     "open_issues": 10,
                     "owner": "ad-oliviero",
                     "repo": "uwufetch",
@@ -6756,7 +6756,7 @@
                     "open_issues": 0,
                     "owner": "ThatOneCalculator",
                     "repo": "NerdFetch",
-                    "stars": 661,
+                    "stars": 662,
                     "topics": [
                       "aesthetics",
                       "android",
@@ -8501,7 +8501,7 @@
                     "open_issues": 417,
                     "owner": "newsboat",
                     "repo": "newsboat",
-                    "stars": 3911,
+                    "stars": 3913,
                     "topics": [
                       "atom-feed-reader",
                       "newsbeuter",
@@ -8550,11 +8550,11 @@
                     "id": 6201092,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-22T12:50:33Z",
-                    "open_issues": 1161,
+                    "last_commit": "2026-09-23T15:09:11Z",
+                    "open_issues": 1157,
                     "owner": "mpv-player",
                     "repo": "mpv",
-                    "stars": 37072,
+                    "stars": 37089,
                     "topics": [
                       "audio",
                       "c",
@@ -8580,10 +8580,10 @@
                     "language": "Rust",
                     "license": "EUPL-1.2",
                     "last_commit": "2026-08-06T19:53:22Z",
-                    "open_issues": 454,
+                    "open_issues": 453,
                     "owner": "eza-community",
                     "repo": "eza",
-                    "stars": 23342,
+                    "stars": 23352,
                     "topics": [
                       "color",
                       "command-line",
@@ -8615,7 +8615,7 @@
                     "open_issues": 16,
                     "owner": "svenstaro",
                     "repo": "genact",
-                    "stars": 12201,
+                    "stars": 12203,
                     "topics": [
                       "cli",
                       "fake",
@@ -8670,7 +8670,7 @@
                     "open_issues": 1,
                     "owner": "bartobri",
                     "repo": "no-more-secrets",
-                    "stars": 7818,
+                    "stars": 7819,
                     "topics": [
                       "effect",
                       "hacker",
@@ -8719,10 +8719,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-02-01T08:49:45Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "chubin",
                     "repo": "awesome-console-services",
-                    "stars": 6533,
+                    "stars": 6534,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -8789,7 +8789,7 @@
                     "open_issues": 179,
                     "owner": "clangen",
                     "repo": "musikcube",
-                    "stars": 4844,
+                    "stars": 4845,
                     "topics": [
                       "alsa",
                       "audio-engine",
@@ -8911,7 +8911,7 @@
                     "open_issues": 331,
                     "owner": "chubin",
                     "repo": "wttr.in",
-                    "stars": 30577,
+                    "stars": 30580,
                     "topics": [
                       "ascii-art",
                       "curl",
@@ -8972,7 +8972,7 @@
                     "open_issues": 18,
                     "owner": "gleitz",
                     "repo": "howdoi",
-                    "stars": 10842,
+                    "stars": 10843,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:10:44.049Z"
@@ -9065,7 +9065,7 @@
                 "open_issues": 13,
                 "owner": "dracula",
                 "repo": "dracula-theme",
-                "stars": 23577,
+                "stars": 23576,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:44.049Z"
@@ -9086,7 +9086,7 @@
                 "open_issues": 125,
                 "owner": "catppuccin",
                 "repo": "catppuccin",
-                "stars": 19789,
+                "stars": 19791,
                 "topics": [
                   "catppuccin",
                   "color-palette",
@@ -9121,7 +9121,7 @@
                 "open_issues": 7,
                 "owner": "Gogh-Co",
                 "repo": "Gogh",
-                "stars": 10317,
+                "stars": 10318,
                 "topics": [
                   "bash",
                   "color-scheme",
@@ -9187,7 +9187,7 @@
                 "open_issues": 6,
                 "owner": "sainnhe",
                 "repo": "everforest",
-                "stars": 4228,
+                "stars": 4229,
                 "topics": [
                   "airline",
                   "color-scheme",
@@ -9553,11 +9553,11 @@
                 "id": 49609581,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-22T20:20:07Z",
-                "open_issues": 1599,
+                "last_commit": "2026-09-23T20:34:07Z",
+                "open_issues": 1608,
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55488,
+                "stars": 55505,
                 "topics": [
                   "command-line",
                   "hacktoberfest",
@@ -9583,11 +9583,11 @@
                 "id": 186024298,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:21:43Z",
-                "open_issues": 1434,
+                "last_commit": "2026-09-23T17:55:45Z",
+                "open_issues": 1437,
                 "owner": "nushell",
                 "repo": "nushell",
-                "stars": 40551,
+                "stars": 40557,
                 "topics": [
                   "nushell",
                   "rust",
@@ -9608,11 +9608,11 @@
                 "id": 4279682,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T09:07:03Z",
-                "open_issues": 566,
+                "last_commit": "2026-09-23T18:05:25Z",
+                "open_issues": 559,
                 "owner": "fish-shell",
                 "repo": "fish-shell",
-                "stars": 34225,
+                "stars": 34228,
                 "topics": [
                   "fish",
                   "rust",
@@ -9638,7 +9638,7 @@
                 "open_issues": 75,
                 "owner": "xonsh",
                 "repo": "xonsh",
-                "stars": 9650,
+                "stars": 9652,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -9726,7 +9726,7 @@
                 "open_issues": 610,
                 "owner": "oils-for-unix",
                 "repo": "oils",
-                "stars": 3393,
+                "stars": 3394,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:44.049Z"
@@ -9806,7 +9806,7 @@
                 "id": 43815123,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-19T11:17:27Z",
+                "last_commit": "2026-09-23T13:17:33Z",
                 "open_issues": 60,
                 "owner": "redox-os",
                 "repo": "ion",
@@ -9915,7 +9915,7 @@
                 "open_issues": 19,
                 "owner": "sammy-ette",
                 "repo": "Hilbish",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "cli",
                   "collaborate",
@@ -10258,11 +10258,11 @@
                 "id": 178991158,
                 "language": "Rust",
                 "license": "ISC",
-                "last_commit": "2026-09-21T22:26:18Z",
-                "open_issues": 1055,
+                "last_commit": "2026-09-23T10:05:59Z",
+                "open_issues": 1054,
                 "owner": "starship",
                 "repo": "starship",
-                "stars": 59998,
+                "stars": 60021,
                 "topics": [
                   "bash",
                   "fish",
@@ -10296,7 +10296,7 @@
                 "open_issues": 152,
                 "owner": "romkatv",
                 "repo": "powerlevel10k",
-                "stars": 55140,
+                "stars": 55144,
                 "topics": [
                   "zsh"
                 ]
@@ -10319,7 +10319,7 @@
                 "open_issues": 131,
                 "owner": "spaceship-prompt",
                 "repo": "spaceship-prompt",
-                "stars": 20574,
+                "stars": 20573,
                 "topics": [
                   "oh-my-zsh",
                   "prompt",
@@ -10411,7 +10411,7 @@
                 "open_issues": 33,
                 "owner": "magicmonty",
                 "repo": "bash-git-prompt",
-                "stars": 6937,
+                "stars": 6936,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:10:44.049Z"
@@ -10460,7 +10460,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-02-25T14:44:15Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "LazoVelko",
                 "repo": "Pokemon-Terminal",
                 "stars": 4804,
@@ -10624,7 +10624,7 @@
                 "open_issues": 21,
                 "owner": "jorgebucaran",
                 "repo": "hydro",
-                "stars": 971,
+                "stars": 972,
                 "topics": [
                   "async",
                   "fish",
@@ -11677,7 +11677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:28:52.180Z",
+    "last_updated": "2026-09-23T20:41:24.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and technology to help you out with ricing on linux",
